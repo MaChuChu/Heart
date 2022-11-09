@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    user-select: none;
+}
+
+canvas {
+    margin-top: 10%;
+    border: 3px solid black;
+    position: relative;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
